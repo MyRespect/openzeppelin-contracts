@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # <img src="logo.svg" alt="OpenZeppelin" height="40px">
 
 [![Docs](https://img.shields.io/badge/docs-%F0%9F%93%84-blue)](https://docs.openzeppelin.com/contracts)
@@ -76,3 +77,8 @@ OpenZeppelin exists thanks to its contributors. There are many ways you can part
 ## License
 
 OpenZeppelin is released under the [MIT License](LICENSE).
+=======
+# openzeppelin-contracts
+
+This is a temporary folder for testing purpose, please refer to the original project https://github.com/OpenZeppelin/openzeppelin-contracts.
+>>>>>>> 293034f49fc153f8d9e9e48f9f16a71af81cc1ef
